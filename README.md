@@ -50,3 +50,10 @@ Rerun after any prompt/model change to catch regressions.
 ## Storage
 
 Fridge memory and preferences live in `data/fridge.db` (SQLite, auto-created).
+
+## Workflow Example
+<img width="503" height="124" alt="image" src="https://github.com/user-attachments/assets/4566b255-549f-4db5-8472-d2a7d3fbe2f2" />
+<img width="536" height="705" alt="image" src="https://github.com/user-attachments/assets/506fb5d3-1b6e-4bc0-b977-b18388096a02" />
+<img width="690" height="453" alt="image" src="https://github.com/user-attachments/assets/e95b57a3-361e-4e39-bb28-1fc874d7714c" />
+
+
