@@ -1,6 +1,6 @@
 # Fridge Chef Bot (@Snap2MealBot)
 
-Send photos of your fridge, get back what's inside — then (in later stages) recipes
+Send photos of your fridge, get back what's inside, then (in later stages) recipes
 with generated dish images and cooking instructions.
 
 ## Stage 1 (current)
